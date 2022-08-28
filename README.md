@@ -1,10 +1,21 @@
-desafio6-portfolio
+Desafio 6 - Proyecto Portafolio Personal
 
-Proyecto Portafolio Personal
+link pagina: https://thegreysam.github.io/
 
-link proyecto: https://thegreysam.github.io/
+link github: https://github.com/TheGreySam/desafio6-portfolio
 
 link fork: https://github.com/TheGreySam/desafio6-portfolio/fork
+
+
+
+
+
+
+
+
+
+
+
 
 ## Project setup
 ```
