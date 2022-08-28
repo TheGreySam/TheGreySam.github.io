@@ -11,7 +11,7 @@ link fork: https://github.com/TheGreySam/desafio6-portfolio/fork
 
 
 
-
+- yo he forkeado este repositorio imjuanb
 
 
 
