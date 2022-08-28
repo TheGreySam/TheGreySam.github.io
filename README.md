@@ -1,4 +1,4 @@
-# desafio6-portfolio
+desafio6-portfolio
 
 Proyecto Portafolio Personal
 
